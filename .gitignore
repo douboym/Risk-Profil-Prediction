@@ -1,0 +1,5 @@
+# 🧾 Ignorer les documents Word et PDF
+*.pdf
+*.docx
+*.doc
+~$*
