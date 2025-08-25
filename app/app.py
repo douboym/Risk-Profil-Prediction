@@ -6,7 +6,8 @@ import joblib
 # model = joblib.load("xgb_risk_model.pkl")
 
 # Chargement du modèle et des noms de colonnes
-model, feature_names = joblib.load("xgb_risk_model.pkl")
+model, feature_names = joblib.load("app/xgb_risk_model.pkl")
+
 
 # -------------------------------
 # 🎨 CONFIGURATION GÉNÉRALE
